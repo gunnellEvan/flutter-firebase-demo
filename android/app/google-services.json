@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "608937853539",
+    "project_id": "fir-flutter-app-a07c5",
+    "storage_bucket": "fir-flutter-app-a07c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:608937853539:android:eae5eaeb40f4c7a02eee56",
+        "android_client_info": {
+          "package_name": "com.gunnellevan.demo_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "608937853539-nf1dccm7arehsiekuesogaic6fpt4edm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDawo130STE_PXXq-xmlmhz6YXfnqMypx4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "608937853539-nf1dccm7arehsiekuesogaic6fpt4edm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
